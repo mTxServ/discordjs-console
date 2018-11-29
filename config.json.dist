@@ -1,0 +1,8 @@
+{
+  "discord_bot_token": "my_token",
+  "discord_channel_id": "123456789",
+  "invoice_id": 123,
+  "mtxserv_client_id": "your_client_id",
+  "mtxserv_client_secret": "your_client_secret",
+  "mtxserv_api_key": "your_api_key"
+}
