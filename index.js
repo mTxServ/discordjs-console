@@ -51,7 +51,6 @@ const streamConsole = function(invoice, channel) {
 
 	socket.on('connected', function() {
 		socket.emit('start', {
-			serverId: invoice.server_id,
 			gameSlug: invoice.game,
 			invoiceId: invoice.id,
 			hash: invoice.security_hash,
