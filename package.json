@@ -85,7 +85,7 @@
     "uuid": "3.3.2",
     "verror": "1.10.0",
     "ws": "4.1.0",
-    "xmlhttprequest-ssl": "1.5.5",
+    "xmlhttprequest-ssl": "1.6.2",
     "yeast": "0.1.2"
   },
   "devDependencies": {},
